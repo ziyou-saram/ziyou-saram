@@ -1,21 +1,5 @@
 # Hi there, I'm Alikhan
 
-## I'm a Software Engineering Student
-
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about SwiftUI
-- ⚡ Fun fact: I love to draw, learn languages / Korean, Chinese, Czech
-
-
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/alikhan-zhumabayev-a42847233/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/alikhan-zhumabayev-a42847233/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/ziyou_ren/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/ziyou_ren/#gh-dark-mode-only)
-
 
 
 
